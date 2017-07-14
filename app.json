@@ -1,14 +1,7 @@
-
 {
-
   "name": "ASISTENTE INTELIGENTE VIRTUAL",
-
   "description": "Cliente Web",
-
-  "repository": "https://github.com/jacoboariza/asistente_inteligente_virtual ",
-
+  "repository": "https://github.com/jacoboariza/asistente_inteligente_virtual",
   "logo": "http://www.jacoboariza.es/wp-content/uploads/2017/07/cylon.png",
-
   "keywords": ["api.ai", "natural language", "bot hub"]
-
 }
